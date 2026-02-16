@@ -96,8 +96,8 @@ Infrastructure
 ## 👨‍💻 Developer
 
 Nama: Abdullah Falich
-Program Studi: Teknik Informatika
-Tahun: 2024
+Program Studi : Teknik Informatika
+Tahun : 2024
 
 ---
 
