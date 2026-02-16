@@ -95,9 +95,9 @@ Infrastructure
 
 ## 👨‍💻 Developer
 
-Nama: Falich ITS
+Nama: Abdullah Falich
 Program Studi: Teknik Informatika
-Tahun: 2026
+Tahun: 2024
 
 ---
 
